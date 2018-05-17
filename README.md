@@ -8,4 +8,5 @@ Model parameters at top of files.
 
 Example: Cointegration.R
 ![Cointegration plot](/CointegrationSimulated.png)
+
 Isn't it beautiful?
